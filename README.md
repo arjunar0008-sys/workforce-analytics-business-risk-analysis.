@@ -26,4 +26,4 @@ This Excel dashboard provides insights into workforce KPIs, attrition trends, ab
 - Clean layout for HR and management reporting  
 
 ## 👤 Author
-Arjun — Business Analytics Intern
+Arjun — Data Analyst
